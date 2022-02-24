@@ -1,0 +1,5 @@
+real-estate-engine:
+  enabled: true
+
+real-estate-web-portal:
+  enabled: true
